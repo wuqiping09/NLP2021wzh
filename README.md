@@ -1,2 +1,4 @@
 # NLP2021wzh
-中文信息处理课程
+Two labs for Chinese Information Processing course, Zhihua Wei, 2021 Spring.  
+1. Word Split
+2. Sentiment Analysis
